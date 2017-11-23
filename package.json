@@ -1,5 +1,5 @@
 {
-  "name": "nodeWithJava",
+  "name": "BaseProject",
   "version": "1.0.0",
   "description": "Project to test bind between codes",
   "main": "app.js",
@@ -12,6 +12,7 @@
     "body-parser": "^1.13.3",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
+    "java": "^0.9.0",
     "lodash": "^4.13.1",
     "method-override": "^2.3.5",
     "morgan": "^1.6.1",
