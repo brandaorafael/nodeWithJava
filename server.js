@@ -24,7 +24,7 @@ module.exports = function(){
 	//Teste
 	var teste = {};
 	teste.controllers = {};
-	teste.controllers.teste = require(__dirname + '/modules/teste/teste-controller.js')();
+	teste.controllers.teste = require(__dirname + '/modules/teste/teste-controller.js')(app.java);
 
 	//Middleware
 	// var middleware = {};
